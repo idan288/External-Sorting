@@ -1,4 +1,4 @@
-This project is a Java external sorting algorithm implementation. It sorts the input file content into an output file where all the lines are sorted in alphabetic order with case insensitive.
+This project is a Java external sorting algorithm implementation. It sorts the input file content into an output file where all the lines are sorted.
 
 ## External sorting
 > External sorting is a term for a class of sorting algorithms that can handle massive amounts of data. External sorting is required when the data being sorted do not fit into the main memory of a computing device (usually RAM) and instead they must reside in the slower external memory (usually a hard drive)
